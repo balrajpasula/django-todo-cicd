@@ -1,4 +1,4 @@
-FROM python:3.9   # Stick to 3.9 for Django 3.2 compatibility
+FROM python:3.9   
 WORKDIR /data
 
 # Install distutils for Python
